@@ -1,2 +1,2 @@
 # machine_learning
-대학교에서 배운 머신러닝
+머신러닝 공부
